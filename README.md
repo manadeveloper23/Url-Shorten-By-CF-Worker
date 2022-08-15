@@ -54,12 +54,13 @@ Cloudflare works has 100k/day requests limistation, which is enough for a small 
 
 # Demo
   
-  - https://go.hxbots.worker.dev
+  - https://go.hxbots.workers.dev
+  - password: *_hxbots_*
   
   <br/>
   <br/>
  
-### Note: Because someone abuse this demo website, all the generated link will automatically expired after 24 hours. For long-term use, please deploy your own. To test this demo site, please use code 'cool'. There is a space in the prompt textbox. You might want to delete that space first then enter the password.
+### Note: Because someone abuse this demo website, all the generated link will automatically expired after 24 hours. For long-term use, please deploy your own. To test this demo site, please use code 'hxbots'. There is a space in the prompt textbox. You might want to delete that space first then enter the password.
 
 
 # Example Code for Authentication
