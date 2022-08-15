@@ -53,7 +53,7 @@ Cloudflare works has 100k/day requests limistation, which is enough for a small 
   <br/>
 
 # Demo
-  
+  - https://go-ovo-hxbots.vercel.app [currently not working]
   - https://go.hxbots.workers.dev
   - password: *_hxbots_*
   
@@ -70,7 +70,7 @@ This code has been put into index.html file. You might want to change it based o
 <SCRIPT language="JavaScript">
 var password;
 var pass1="hxbots";
-password=prompt('Please enter your password to view this page!',' ');
+password=prompt('Please enter your password to view this page!','hxbots');
 if (password!=pass1)
     window.location="https://hxbots.eu.org";
 else
